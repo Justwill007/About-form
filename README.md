@@ -1,4 +1,5 @@
 # about
 <html>
-<head>
+</head>
+<body>
 <h1> About </h1>
